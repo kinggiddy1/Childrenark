@@ -112,7 +112,7 @@
               <li><i class="ri-check-double-line"></i> Radio and TVs Program</li>
               <li><i class="ri-check-double-line"></i> Kids Study Tour</li>
               <li><i class="ri-check-double-line"></i> Kids Event</li>
-              <li><i class="ri-check-double-line"></i> Annual Parenthood Conference</li>  
+              <li><i class="ri-check-double-line"></i> Annual Parenthood Conference</li>   
             </ul>
           </div>
         </div>
