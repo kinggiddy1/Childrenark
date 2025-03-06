@@ -120,7 +120,7 @@
       </div>
     </section>
 
-    <section id="clients" class="clients section-bg">   
+    <section id="clients" class="clients section-bg">    
       <div class="container">
 
         <div class="row">
